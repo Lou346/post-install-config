@@ -59,21 +59,100 @@ Leave the remaining fields set as default .
 
 ![Annotation 2024-09-09 204609](https://github.com/user-attachments/assets/948035ed-c6b0-4055-a74f-e863d9998d96)
 
-
+Agents
 <p> Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
-Admin Panel -> Agents -> Add New
+Admin Panel > Agents > Add New
 Jane
 John
 
 ![Annotation 2024-09-09 210431](https://github.com/user-attachments/assets/9a6bc2a1-3238-4b06-81ae-983c716f03dc)
 
 
-</p>
+</p>!
+
+
+
+
+
+
+
+
+
+![Annotation 2024-09-09 204744](https://github.com/user-attachments/assets/a0365291-f1f4-485c-bcf3-3735429baebd)
+
+
 <p>
 
   
   
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+
+
+
+
+
+</p> End Users Creation Users can log in to create a ticket or check on their ticket status as well.
+Agent Panel > Users > Add New
+
+1.Karen
+
+2.Ken
 <br />
+
+
+
+
+![Annotation 2024-09-10 172416 User](https://github.com/user-attachments/assets/d9f9dff7-8ded-4f0d-8f7a-e1e7a7fe2545)
+
+
+
+
+
+
+![Annotation 2024-09-10 172329 User](https://github.com/user-attachments/assets/119d13c1-83e2-4e35-8d5b-878c74edaf58)
+
+
+
+
+
+SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed. Admin Panel -> Manage -> SLA
+
+1.Sev-A (1 hour, 24/7)
+
+2.Sev-B (4 hours, 24/7)
+
+3.Sev-C (8 hours, business hours)
+
+
+
+
+
+
+![Annotation 2024-09-09 183545](https://github.com/user-attachments/assets/c93140df-3d77-46bf-8251-0dde4a25685f)
+
+
+
+
+
+Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. Create as many Help Topics as needed and can even nest Help Topics within each other for further breakdown (For example, Human Resources and Human Resources/Payroll.)
+
+Admin Panel -> Manage -> Help Topics
+
+Business Critical Outage
+
+Personal Computer Issues
+
+Equipment Request
+
+Password Reset
+
+
+
+![Annotation 2024-09-09 183522](https://github.com/user-attachments/assets/14346d4c-b507-499e-a8f9-5e63fd789602)
+
+
+
+
+
+
