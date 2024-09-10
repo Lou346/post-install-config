@@ -20,7 +20,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Login to osTicket Admin Panel
-- configure Roles
+- config Roles
 - Config Departments
 - Config Teams
 - Config SLA
