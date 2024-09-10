@@ -116,13 +116,13 @@ Agent Panel > Users > Add New
 
 
 
-SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed. Admin Panel -> Manage -> SLA
+SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed. Admin Panel > Manage > SLA
 
-1.Sev-A (1 hour, 24/7)
+-.Sev-A (1 hour, 24/7)
 
-2.Sev-B (4 hours, 24/7)
+-.Sev-B (4 hours, 24/7)
 
-3.Sev-C (8 hours, business hours)
+-.Sev-C (8 hours, business hours)
 
 
 
@@ -137,7 +137,7 @@ SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of
 
 Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. Create as many Help Topics as needed and can even nest Help Topics within each other for further breakdown (For example, Human Resources and Human Resources/Payroll.)
 
-Admin Panel -> Manage -> Help Topics
+Admin Panel > Manage > Help Topics
 
 Business Critical Outage
 
